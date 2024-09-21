@@ -1,2 +1,2 @@
-# ADS-505-Final-Team-Project
-A project used for demonstrating team collaboration. 
+# ADS-505-Final-Project
+Team collaborative project 
